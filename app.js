@@ -33,7 +33,7 @@ app.post('/',function(req,res){
 
     const options={
         method:'POST',
-        auth:'hashim:66600b2bceda0adcc3cf2dbb698efe09-us13'
+        auth:'hashim:ef84b4d0518632a263da309b6ca85c64-us13'
     }
 
     var url='https://us13.api.mailchimp.com/3.0/lists/67023b7dd2';
